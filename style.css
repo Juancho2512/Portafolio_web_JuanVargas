@@ -7,7 +7,7 @@
 :root {
     --primary: #18db86;
     --secondary: white;
-    --secondaty-ligth: rgb(173, 173, 173);
+    --secondary-ligth: rgb(173, 173, 173);
     --dark1: #222222;
     --dark2: #050505;
 }
@@ -301,7 +301,7 @@ section.skills {
 footer {
     background-color: var(--dark2);
     text-align: center;
-    color: var(--secondaty-ligth);
+    color: var(--secondary-ligth);
 }
 
 /*  ############## Modals ################ */
