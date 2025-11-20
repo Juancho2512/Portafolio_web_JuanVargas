@@ -46,7 +46,7 @@ container {
     padding: 10px;
     text-decoration: none;
     color: var(--secondary);
-    margin: 20px;
+    margin: 10px;
 }
 
 .navbar a:hover {
@@ -205,10 +205,10 @@ section.skills {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, auto));
     justify-content: center;
-    gap: 170px;
+    gap: 10px;
     width: 90%;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding-bottom: 5px;
 }
 
 .skills h2 {
@@ -275,25 +275,25 @@ section.skills {
 }
 
 .about p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     width: 90%;
     margin: 0 auto;
-    line-height: 2.5rem;
+    line-height: 2rem;
     color: var(--secondary-ligth);
 }
 
 .social {
-    border-left: var(--secondary) 5px solid;
-    padding-left: 50px;
+    border-left: var(--secondary) 2px solid;
+    padding-left: 5px;
 }
 
 .social img {
-    width: 60px;
+    width: 40px;
     margin: 25px;
 }
 
 .social img:hover {
-    transform: scale(1.2);
+    transform: scale(1.5);
 }
 
 /*  ############## Footer ################ */
